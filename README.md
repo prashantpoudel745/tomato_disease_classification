@@ -39,8 +39,8 @@ tomato-disease-predictor/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/tomato-disease-predictor.git
-cd tomato-disease-predictor
+git clone https://github.com/prashantpoudel745/tomato_disease_classification
+cd tomato-disease-classification
 ```
 
 ### 2. Install Dependencies
